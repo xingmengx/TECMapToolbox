@@ -1,0 +1,26 @@
+#Entropy rate for daily TEC intensification parameters for 2005to2006
+#Array shape (ntau,ntec) = (3,6)
+For num_max
+     0.00000
+     1.32284
+     1.32331
+For num_avg
+     0.00000
+     2.64689
+     2.69039
+For totalREC_max
+     0.00000
+     1.69481
+     1.92790
+For totalREC_avg
+     0.00000
+     1.38146
+     1.62859
+For totalsize_max
+    -0.00000
+     2.30865
+     2.29586
+For totalsize_avg
+    -0.00000
+     2.42946
+     2.45690

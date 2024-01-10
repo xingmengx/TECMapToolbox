@@ -1,0 +1,27 @@
+#Mutual information between dailyf107 and time-shifted TEC intensification parameters for 2005to2006
+#Array shape (ntau, ndrivers, ntec) = (3,1,6)
+#F107
+For num_max
+     0.01938
+     0.02776
+     0.01990
+For num_avg
+     0.09780
+     0.12120
+     0.08797
+For totalREC_max
+     0.27694
+     0.28201
+     0.29520
+For totalREC_avg
+     0.29267
+     0.31922
+     0.31522
+For totalsize_max
+     0.06361
+     0.06779
+     0.05774
+For totalsize_avg
+     0.08423
+     0.08056
+     0.09474

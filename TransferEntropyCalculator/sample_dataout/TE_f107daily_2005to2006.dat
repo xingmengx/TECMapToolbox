@@ -1,0 +1,27 @@
+#Transfer entropy from dailyf107 to time-shifted TEC intensification parameters for 2005to2006
+#Array shape (ntau, ndrivers, ntec) = (3,1,6)
+#F107
+For num_max
+     0.00000
+     0.09044
+     0.08108
+For num_avg
+    -0.00000
+     0.41230
+     0.43904
+For totalREC_max
+     0.00000
+     0.26137
+     0.30282
+For totalREC_avg
+     0.00000
+     0.21258
+     0.25399
+For totalsize_max
+    -0.00000
+     0.26902
+     0.24250
+For totalsize_avg
+    -0.00000
+     0.33681
+     0.37740

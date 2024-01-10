@@ -1,0 +1,27 @@
+#Mean and 3 Sigma of transfer entropy from shuffled dailyf107 to time-shifted TEC intensification parameters for 2005to2006
+#Array shape (ntau, ndrivers, ntec) = (3,1,6) for both mean and 3sigma
+#F107(mean 3sigma)
+For num_max
+     0.00000     0.00000
+     0.07937     0.03664
+     0.06887     0.02864
+For num_avg
+    -0.00000     0.00000
+     0.39545     0.06713
+     0.40811     0.06704
+For totalREC_max
+    -0.00000     0.00000
+     0.23798     0.04322
+     0.27318     0.04314
+For totalREC_avg
+    -0.00000     0.00000
+     0.17176     0.03989
+     0.20909     0.03969
+For totalsize_max
+    -0.00000     0.00000
+     0.26578     0.05314
+     0.25568     0.04949
+For totalsize_avg
+    -0.00000     0.00000
+     0.32412     0.05850
+     0.33584     0.05507
